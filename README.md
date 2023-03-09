@@ -8,4 +8,4 @@
 
 <h3>Html5 & Css3 </h3>
 
-<link rel="stylesheet" href="magazine.gif">
+![banner resmi](magazine.gif)
